@@ -1,0 +1,14 @@
+{
+	"extName": {
+		"message": "我要秒杀",
+		"description": "Extension name."
+	},
+	"extShortName": {
+		"message": "我要秒杀",
+		"description": "Extension short name."
+	},
+	"extDesc": {
+		"message": "如果你不知道它是什么，请不要使用它。",
+		"description": "Extension description."
+	}
+}
